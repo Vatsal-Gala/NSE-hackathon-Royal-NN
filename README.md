@@ -14,7 +14,7 @@ Numpy.
 Pandas.    
 Keras - backed by TensorFlow.  
 Scikit-Learn.  
-Matplotlib.  
+Pyplot in Matplotlib.  
 
 ## Resources / Dataset From :
 Quandl - https://www.quandl.com
