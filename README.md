@@ -8,6 +8,9 @@ accepts details from the user related to the Company where he/she wishes to inve
 wants to buy.Using the Past records of the Company,the possible opening price,high value and low value for the next day are 
 predicted.  
 
+## Techniques Used:
+LSTM- Long Short Term Memory
+
 ## Libraries Used:
 Latest Versions of Libraries as per the upload date:  
 Numpy.  
